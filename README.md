@@ -4,14 +4,12 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/SergioLuisCardoso/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/SergioLuisCardoso/README-template?style=for-the-badge)
 
-
-> Visual result of the project login/password screen.
 
 <img src="/screen-login.png" alt="exemplo imagem">
+<br><br>
+
+> Visual result of the project login/password screen.
 
 ### Made of:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/get-windows-10)
